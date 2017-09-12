@@ -1,5 +1,5 @@
 {
-    "name": "eksponent/behat-code-coverage",
+    "name": "leanphp/behat-code-coverage",
     "description": "Generate Code Coverage reports for Behat tests",
     "type": "library",
     "keywords": [
